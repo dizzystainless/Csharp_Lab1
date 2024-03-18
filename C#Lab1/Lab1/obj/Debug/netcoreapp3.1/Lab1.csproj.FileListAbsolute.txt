@@ -1,0 +1,26 @@
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Visual studio\.NET-utvecklare ITHS\Lab1lösning\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+E:\PiNkY\Plugg\.NET-utvecklare\Inlämningar\C#Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
